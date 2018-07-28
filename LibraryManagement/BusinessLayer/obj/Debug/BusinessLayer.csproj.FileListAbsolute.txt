@@ -1,0 +1,81 @@
+C:\Users\PhucPhan\Desktop\LibraryManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\BusinessLayer\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\BusinessLayer\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Desktop\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\BusinessLayer\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\BusinessLayer\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\BusinessLayer\bin\Debug\ValueObject.dll
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\BusinessLayer\bin\Debug\ValueObject.pdb
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\BusinessLayer\bin\Debug\ValueObject.dll
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\BusinessLayer\bin\Debug\ValueObject.pdb
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\BusinessLayer\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\BusinessLayer\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\BusinessLayer\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\BusinessLayer\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\BusinessLayer\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\BusinessLayer\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\BusinessLayer\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\BusinessLayer\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\BusinessLayer\bin\Debug\ValueObject.dll
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\BusinessLayer\bin\Debug\ValueObject.pdb
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb

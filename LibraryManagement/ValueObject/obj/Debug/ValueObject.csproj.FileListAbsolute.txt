@@ -1,0 +1,28 @@
+C:\Users\PhucPhan\Desktop\LibraryManagement\ValueObject\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\ValueObject\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\ValueObject\obj\Debug\ValueObject.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Desktop\LibraryManagement\ValueObject\obj\Debug\ValueObject.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\ValueObject\obj\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\ValueObject\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\ValueObject\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\ValueObject\obj\Debug\ValueObject.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\ValueObject\obj\Debug\ValueObject.dll
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\ValueObject\obj\Debug\ValueObject.pdb
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\ValueObject\bin\Debug\ValueObject.dll
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\ValueObject\bin\Debug\ValueObject.pdb
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\ValueObject\obj\Debug\ValueObject.dll
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\ValueObject\obj\Debug\ValueObject.pdb
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\ValueObject\bin\Debug\ValueObject.dll
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\ValueObject\bin\Debug\ValueObject.pdb
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\ValueObject\obj\Debug\ValueObject.csprojResolveAssemblyReference.cache
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\ValueObject\obj\Debug\ValueObject.dll
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\ValueObject\obj\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\ValueObject\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\ValueObject\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\ValueObject\obj\Debug\ValueObject.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\ValueObject\obj\Debug\ValueObject.dll
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\ValueObject\obj\Debug\ValueObject.pdb
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\ValueObject\bin\Debug\ValueObject.dll
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\ValueObject\bin\Debug\ValueObject.pdb
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\ValueObject\obj\Debug\ValueObject.dll
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\ValueObject\obj\Debug\ValueObject.pdb

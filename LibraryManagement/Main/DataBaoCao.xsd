@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataBaoCao" targetNamespace="http://tempuri.org/DataBaoCao.xsd" xmlns:mstns="http://tempuri.org/DataBaoCao.xsd" xmlns="http://tempuri.org/DataBaoCao.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLTHUVIENConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLTHUVIENConnectionString1 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Main.Properties.Settings.GlobalReference.Default.QLTHUVIENConnectionString1" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="VW_BAOCAOMUONSACHTableAdapter" GeneratorDataComponentClassName="VW_BAOCAOMUONSACHTableAdapter" Name="VW_BAOCAOMUONSACH" UserDataComponentName="VW_BAOCAOMUONSACHTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLTHUVIENConnectionString1 (Settings)" DbObjectName="QLTHUVIEN.dbo.VW_BAOCAOMUONSACH" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT TheLoai, Thang, Nam, SoLuotMuon, TILE FROM dbo.VW_BAOCAOMUONSACH</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="TheLoai" DataSetColumn="TheLoai" />
+              <Mapping SourceColumn="Thang" DataSetColumn="Thang" />
+              <Mapping SourceColumn="Nam" DataSetColumn="Nam" />
+              <Mapping SourceColumn="SoLuotMuon" DataSetColumn="SoLuotMuon" />
+              <Mapping SourceColumn="TILE" DataSetColumn="TILE" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="VW_BAOCAOTRASACHTRETableAdapter" GeneratorDataComponentClassName="VW_BAOCAOTRASACHTRETableAdapter" Name="VW_BAOCAOTRASACHTRE" UserDataComponentName="VW_BAOCAOTRASACHTRETableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLTHUVIENConnectionString1 (Settings)" DbObjectName="QLTHUVIEN.dbo.VW_BAOCAOTRASACHTRE" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT TenSach, NgayMuon, SoNgayTre FROM dbo.VW_BAOCAOTRASACHTRE</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="TenSach" DataSetColumn="TenSach" />
+              <Mapping SourceColumn="NgayMuon" DataSetColumn="NgayMuon" />
+              <Mapping SourceColumn="SoNgayTre" DataSetColumn="SoNgayTre" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="VW_PHIEUTHUTIENPHATTableAdapter" GeneratorDataComponentClassName="VW_PHIEUTHUTIENPHATTableAdapter" Name="VW_PHIEUTHUTIENPHAT" UserDataComponentName="VW_PHIEUTHUTIENPHATTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLTHUVIENConnectionString1 (Settings)" DbObjectName="QLTHUVIEN.dbo.VW_PHIEUTHUTIENPHAT" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MaPTT, MaThe, HoTen, TaiKhoanNo, NgayThu, SoTienThu, ConLai, NgaySinh, DiaChi FROM dbo.VW_PHIEUTHUTIENPHAT</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MaPTT" DataSetColumn="MaPTT" />
+              <Mapping SourceColumn="MaThe" DataSetColumn="MaThe" />
+              <Mapping SourceColumn="HoTen" DataSetColumn="HoTen" />
+              <Mapping SourceColumn="TaiKhoanNo" DataSetColumn="TaiKhoanNo" />
+              <Mapping SourceColumn="NgayThu" DataSetColumn="NgayThu" />
+              <Mapping SourceColumn="SoTienThu" DataSetColumn="SoTienThu" />
+              <Mapping SourceColumn="ConLai" DataSetColumn="ConLai" />
+              <Mapping SourceColumn="NgaySinh" DataSetColumn="NgaySinh" />
+              <Mapping SourceColumn="DiaChi" DataSetColumn="DiaChi" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataBaoCao" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="DataBaoCao" msprop:Generator_UserDSName="DataBaoCao">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="VW_BAOCAOMUONSACH" msprop:Generator_TableClassName="VW_BAOCAOMUONSACHDataTable" msprop:Generator_TableVarName="tableVW_BAOCAOMUONSACH" msprop:Generator_TablePropName="VW_BAOCAOMUONSACH" msprop:Generator_RowDeletingName="VW_BAOCAOMUONSACHRowDeleting" msprop:Generator_RowChangingName="VW_BAOCAOMUONSACHRowChanging" msprop:Generator_RowEvHandlerName="VW_BAOCAOMUONSACHRowChangeEventHandler" msprop:Generator_RowDeletedName="VW_BAOCAOMUONSACHRowDeleted" msprop:Generator_UserTableName="VW_BAOCAOMUONSACH" msprop:Generator_RowChangedName="VW_BAOCAOMUONSACHRowChanged" msprop:Generator_RowEvArgName="VW_BAOCAOMUONSACHRowChangeEvent" msprop:Generator_RowClassName="VW_BAOCAOMUONSACHRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TheLoai" msprop:Generator_ColumnVarNameInTable="columnTheLoai" msprop:Generator_ColumnPropNameInRow="TheLoai" msprop:Generator_ColumnPropNameInTable="TheLoaiColumn" msprop:Generator_UserColumnName="TheLoai">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Thang" msprop:Generator_ColumnVarNameInTable="columnThang" msprop:Generator_ColumnPropNameInRow="Thang" msprop:Generator_ColumnPropNameInTable="ThangColumn" msprop:Generator_UserColumnName="Thang" type="xs:int" minOccurs="0" />
+              <xs:element name="Nam" msprop:Generator_ColumnVarNameInTable="columnNam" msprop:Generator_ColumnPropNameInRow="Nam" msprop:Generator_ColumnPropNameInTable="NamColumn" msprop:Generator_UserColumnName="Nam" type="xs:int" minOccurs="0" />
+              <xs:element name="SoLuotMuon" msprop:Generator_ColumnVarNameInTable="columnSoLuotMuon" msprop:Generator_ColumnPropNameInRow="SoLuotMuon" msprop:Generator_ColumnPropNameInTable="SoLuotMuonColumn" msprop:Generator_UserColumnName="SoLuotMuon" type="xs:int" minOccurs="0" />
+              <xs:element name="TILE" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnTILE" msprop:Generator_ColumnPropNameInRow="TILE" msprop:Generator_ColumnPropNameInTable="TILEColumn" msprop:Generator_UserColumnName="TILE" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="VW_BAOCAOTRASACHTRE" msprop:Generator_TableClassName="VW_BAOCAOTRASACHTREDataTable" msprop:Generator_TableVarName="tableVW_BAOCAOTRASACHTRE" msprop:Generator_TablePropName="VW_BAOCAOTRASACHTRE" msprop:Generator_RowDeletingName="VW_BAOCAOTRASACHTRERowDeleting" msprop:Generator_RowChangingName="VW_BAOCAOTRASACHTRERowChanging" msprop:Generator_RowEvHandlerName="VW_BAOCAOTRASACHTRERowChangeEventHandler" msprop:Generator_RowDeletedName="VW_BAOCAOTRASACHTRERowDeleted" msprop:Generator_UserTableName="VW_BAOCAOTRASACHTRE" msprop:Generator_RowChangedName="VW_BAOCAOTRASACHTRERowChanged" msprop:Generator_RowEvArgName="VW_BAOCAOTRASACHTRERowChangeEvent" msprop:Generator_RowClassName="VW_BAOCAOTRASACHTRERow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TenSach" msprop:Generator_ColumnVarNameInTable="columnTenSach" msprop:Generator_ColumnPropNameInRow="TenSach" msprop:Generator_ColumnPropNameInTable="TenSachColumn" msprop:Generator_UserColumnName="TenSach">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NgayMuon" msprop:Generator_ColumnVarNameInTable="columnNgayMuon" msprop:Generator_ColumnPropNameInRow="NgayMuon" msprop:Generator_ColumnPropNameInTable="NgayMuonColumn" msprop:Generator_UserColumnName="NgayMuon" type="xs:dateTime" />
+              <xs:element name="SoNgayTre" msprop:Generator_ColumnVarNameInTable="columnSoNgayTre" msprop:Generator_ColumnPropNameInRow="SoNgayTre" msprop:Generator_ColumnPropNameInTable="SoNgayTreColumn" msprop:Generator_UserColumnName="SoNgayTre" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="VW_PHIEUTHUTIENPHAT" msprop:Generator_TableClassName="VW_PHIEUTHUTIENPHATDataTable" msprop:Generator_TableVarName="tableVW_PHIEUTHUTIENPHAT" msprop:Generator_TablePropName="VW_PHIEUTHUTIENPHAT" msprop:Generator_RowDeletingName="VW_PHIEUTHUTIENPHATRowDeleting" msprop:Generator_RowChangingName="VW_PHIEUTHUTIENPHATRowChanging" msprop:Generator_RowEvHandlerName="VW_PHIEUTHUTIENPHATRowChangeEventHandler" msprop:Generator_RowDeletedName="VW_PHIEUTHUTIENPHATRowDeleted" msprop:Generator_UserTableName="VW_PHIEUTHUTIENPHAT" msprop:Generator_RowChangedName="VW_PHIEUTHUTIENPHATRowChanged" msprop:Generator_RowEvArgName="VW_PHIEUTHUTIENPHATRowChangeEvent" msprop:Generator_RowClassName="VW_PHIEUTHUTIENPHATRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaPTT" msprop:Generator_ColumnVarNameInTable="columnMaPTT" msprop:Generator_ColumnPropNameInRow="MaPTT" msprop:Generator_ColumnPropNameInTable="MaPTTColumn" msprop:Generator_UserColumnName="MaPTT">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MaThe" msprop:Generator_ColumnVarNameInTable="columnMaThe" msprop:Generator_ColumnPropNameInRow="MaThe" msprop:Generator_ColumnPropNameInTable="MaTheColumn" msprop:Generator_UserColumnName="MaThe">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="HoTen" msprop:Generator_ColumnVarNameInTable="columnHoTen" msprop:Generator_ColumnPropNameInRow="HoTen" msprop:Generator_ColumnPropNameInTable="HoTenColumn" msprop:Generator_UserColumnName="HoTen">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TaiKhoanNo" msprop:Generator_ColumnVarNameInTable="columnTaiKhoanNo" msprop:Generator_ColumnPropNameInRow="TaiKhoanNo" msprop:Generator_ColumnPropNameInTable="TaiKhoanNoColumn" msprop:Generator_UserColumnName="TaiKhoanNo" type="xs:int" />
+              <xs:element name="NgayThu" msprop:Generator_ColumnVarNameInTable="columnNgayThu" msprop:Generator_ColumnPropNameInRow="NgayThu" msprop:Generator_ColumnPropNameInTable="NgayThuColumn" msprop:Generator_UserColumnName="NgayThu" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="SoTienThu" msprop:Generator_ColumnVarNameInTable="columnSoTienThu" msprop:Generator_ColumnPropNameInRow="SoTienThu" msprop:Generator_ColumnPropNameInTable="SoTienThuColumn" msprop:Generator_UserColumnName="SoTienThu" type="xs:decimal" />
+              <xs:element name="ConLai" msprop:Generator_ColumnVarNameInTable="columnConLai" msprop:Generator_ColumnPropNameInRow="ConLai" msprop:Generator_ColumnPropNameInTable="ConLaiColumn" msprop:Generator_UserColumnName="ConLai" type="xs:decimal" />
+              <xs:element name="NgaySinh" msprop:Generator_ColumnVarNameInTable="columnNgaySinh" msprop:Generator_ColumnPropNameInRow="NgaySinh" msprop:Generator_ColumnPropNameInTable="NgaySinhColumn" msprop:Generator_UserColumnName="NgaySinh" type="xs:dateTime" />
+              <xs:element name="DiaChi" msprop:Generator_ColumnVarNameInTable="columnDiaChi" msprop:Generator_ColumnPropNameInRow="DiaChi" msprop:Generator_ColumnPropNameInTable="DiaChiColumn" msprop:Generator_UserColumnName="DiaChi">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:VW_PHIEUTHUTIENPHAT" />
+      <xs:field xpath="mstns:MaPTT" />
+      <xs:field xpath="mstns:MaThe" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

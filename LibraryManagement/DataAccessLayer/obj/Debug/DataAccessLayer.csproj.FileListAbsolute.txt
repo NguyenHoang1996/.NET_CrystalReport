@@ -1,0 +1,63 @@
+C:\Users\PhucPhan\Desktop\LibraryManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\DataAccessLayer\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\DataAccessLayer\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Desktop\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\DataAccessLayer\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\DataAccessLayer\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Documents\Visual Studio 2015\Projects\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\DataAccessLayer\bin\Debug\ValueObject.dll
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\DataAccessLayer\bin\Debug\ValueObject.pdb
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\phamt_000\Desktop\NMCNPM\do an\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\DataAccessLayer\bin\Debug\ValueObject.dll
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\DataAccessLayer\bin\Debug\ValueObject.pdb
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\phamt_000\Desktop\My Desktop1\NMCNPM\do an\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\DataAccessLayer\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\DataAccessLayer\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Downloads\Compressed\update_15_06_2016\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\DataAccessLayer\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\DataAccessLayer\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement1\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\DataAccessLayer\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\DataAccessLayer\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Desktop\LibraryManagement\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\DataAccessLayer\bin\Debug\ValueObject.dll
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\DataAccessLayer\bin\Debug\ValueObject.pdb
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\PhucPhan\Desktop\Đồ án nhóm 18 - SE104.G22\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\DataAccessLayer\bin\Debug\ValueObject.dll
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\DataAccessLayer\bin\Debug\ValueObject.pdb
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Phuc\Desktop\seminar CNPMCS\QLTV\LibraryManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
